@@ -24,11 +24,12 @@ Package Requirements:
 - permutations from itertools
 - maxsize from sys
 
+To see how the state data was created, see [clean_capitals.ipynb](https://github.com/TDEN93/Traveling_Politician/blob/master/clean_capitals.ipynb)
 
 Original solution can be found [here](https://github.com/VinnyDamiano/TravelingPolitician)  
 Credit: **Vincent Damiano, Verbus Counts, Trent Rogers**
 
-*This solution attempts to refactor the original solution above using Pythonic methods and PEP 8 styling*
+*This [solution](https://github.com/TDEN93/Traveling_Politician/blob/master/traveling_problem.ipynb) attempts to refactor the original solution above using pythonic methods and PEP 8 styling standards*
 
 ## Time
 44.3 ms ± 261 µs per loop (mean ± std. dev. of 7 runs, 10 loops each)
