@@ -45,3 +45,4 @@ The number of states can be changed by replacing "3" in:
 - Code clean up
 - Neatly output results
 - Generalize inputs
+- Verify Geopy distances
