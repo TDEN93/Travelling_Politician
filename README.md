@@ -39,3 +39,9 @@ The number of states can be changed by replacing "3" in:
 `middle = list(state_capitals.iloc[:3, 0].tolist())`  
 ### Warning
 **Does not check for out of bounds values**
+
+### TODO
+- Verify and fix that D.C distance is not being considered
+- Code clean up
+- Neatly output results
+- Generalize inputs
